@@ -1,0 +1,6 @@
+flask==2.2.3
+requests==2.31.0
+playwright==1.36.0
+beautifulsoup4==4.12.2
+transformers==4.31.0
+torch==2.0.1
